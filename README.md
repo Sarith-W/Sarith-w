@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Sarith Wijesundera</h1>
-<h3 align="center">A passionate tech enthusiast to do something unique</h3>
+<h3 align="center">A passionate tech enthusiast with a desire to have a positive impact on the world!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <a href="https://twitter.com/s_a_r_i_t_h__w" target="blank"><img src="https://img.shields.io/twitter/follow/s_a_r_i_t_h__w?logo=twitter&style=for-the-badge" alt="s_a_r_i_t_h__w" /></a> </p>
