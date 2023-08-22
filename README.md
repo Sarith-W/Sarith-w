@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_a_r_i_t_h__w" target="blank"><img src="https://img.shields.io/twitter/follow/s_a_r_i_t_h__w?logo=twitter&style=for-the-badge" alt="s_a_r_i_t_h__w" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, React, PHP, R, AR and ML related technologies**
+- 🌱 I’m currently learning **React, Docker, Kubernetes, and more DevOps related techologies**
 
 - 📫 How to reach me **smw8079@gmail.com**
 
