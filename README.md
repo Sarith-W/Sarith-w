@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/s_a_r_i_t_h__w" target="blank"><img src="https://img.shields.io/twitter/follow/s_a_r_i_t_h__w?logo=twitter&style=for-the-badge" alt="s_a_r_i_t_h__w" /></a> </p>
 
-- 🌱 I’m currently learning **React, Docker, Kubernetes, and more DevOps related technologies**
+- 🌱 I’m currently learning **React, Docker, Kubernetes, Tekton, and more DevOps related technologies**
 
 - 👨‍💻 All of my projects are available at [https://sarith-w.github.io/Portfolio/](https://sarith-w.github.io/Portfolio/)
 
