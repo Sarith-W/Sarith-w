@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 **Objective:** Building software to make people's lives easier, not lazier.<br>👯 **Collaboration:** Working on projects that create a positive impact for you, me, and the community.<br>🌱 **Currently Learning** things that I do not know and the things I know.<br>⚡ **Fun Fact:** You can automate anything…from deployments to daily standups (well, almost!).
+🔭 **Objective:** Building and deploying software to make people's lives easier, not lazier.<br>👯 **Collaboration:** Working on projects that create a positive impact for you, me, and the community.<br>🌱 **Currently Learning** things that I do not know and the things I know.<br>⚡ **Fun Fact:** You can automate anything…from deployments to daily standups (well, almost!).
 
 
 ## 🌐 Socials:
